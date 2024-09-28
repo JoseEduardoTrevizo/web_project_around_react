@@ -1,4 +1,3 @@
-import ImageProfile from "../images/Avatar.png";
 import ImageVector from "../images/Vector.png";
 import ImageEdit from "../images/Edit_Button.png";
 import ImageAdd from "../images/Add_Button.png";
